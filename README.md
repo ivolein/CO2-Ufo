@@ -1,2 +1,2 @@
 # CO2-Ufo
-co2 indicator to monitor the room
+Indicator to monitor the c02 concentration in theroom
